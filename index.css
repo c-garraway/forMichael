@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 20px;
+    background-color: antiquewhite;
+}
+#container {
+    width: 300px;
+    margin:auto;
+    border: 1px solid black;
+}
+#jokeContainer {
+    height: 300px;
+    padding: 10px;
+    background-color: white;
+}
+#jokeButton {
+    background-color: black;
+    color: white;
+    width: 100%;
+    cursor: pointer;
+    height: 100px;
+    font-size: 18px;
+    font-weight: bold;
+}
